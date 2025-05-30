@@ -32,7 +32,6 @@ Vous incarnez un **Dreamhopper**, dernier rempart contre les cauchemars qui dév
 | `Z + A`                  | Avancer en diagonale gauche                                  |
 | `Espace`                 | Sauter                                                      |
 | `1`                      | Lancer un **Trait de Rêve** (Dreambolt)                      |
-| `W`                      | Sortir / Rentrer l'arme (toggle sheathe)                     |
 | `T`                      | Interagir avec un PNJ pour lancer une quête                  |
 | **Clic droit enfoncé**   | Tourner le personnage avec la souris                         |
 | **Clic gauche enfoncé**  | Déplacer la caméra autour du personnage (pan around)         |
