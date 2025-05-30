@@ -1,7 +1,7 @@
 # 🌙 Dreamhopper – Games on Web 2025
 
 > 🔗 **Lien vers la démo en ligne** : [À venir]  
-> 📂 **Dépôt GitHub** : [À venir]  
+> 📂 **Dépôt GitHub** : [https://github.com/huss4m/dreamhopper](https://github.com/huss4m/dreamhopper)  
 > 🎥 **Playlist YouTube (gameplay)** : [À venir]
 
 ---
@@ -47,8 +47,9 @@ Le jeu a été conçu et développé intégralement en Babylon.js, avec une atte
 
 Le développement a été réalisé en seulement 2 à 3 semaines, ce qui a été très difficile à gérer, d’autant plus que je faisais en parallèle un stage à plein temps. Malgré ces contraintes, j’ai donné le meilleur de moi-même pour obtenir le meilleur résultat possible.
 
-En début de projet, une collaboration était prévue avec **Salim FARES** (*M1 Informatique – Ingénierie du Développement Logiciel*, Université Aix-Marseille). Toutefois, Salim a **n’a finalement pas participé** à sa réalisation. Son nom a donc été retiré du projet final.
+En début de projet, une collaboration était prévue avec **Salim FARES** (*M1 Informatique – Ingénierie du Développement Logiciel*, Université Aix-Marseille). Toutefois, Salim a quitté le projet avant le début du développement et **n’a finalement pas participé** à sa réalisation. Son nom a donc été retiré du projet final.
 
 ---
 
 Merci d’avoir rêvé avec nous. 💤
+
