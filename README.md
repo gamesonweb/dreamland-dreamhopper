@@ -2,7 +2,7 @@
 
 > 🔗 **Lien vers la démo en ligne** : [À venir]  
 > 📂 **Dépôt GitHub** : [https://github.com/huss4m/dreamhopper](https://github.com/huss4m/dreamhopper)  
-> 🎥 **Playlist YouTube (gameplay)** : [À venir]
+> 🎥 **Playlist YouTube (gameplay)** : [https://www.youtube.com/watch?v=-fJAIOfh8UY&list=PL_egna8L4yOhU8aGCMSXVqt3RxjXNRVGY](https://www.youtube.com/watch?v=-fJAIOfh8UY&list=PL_egna8L4yOhU8aGCMSXVqt3RxjXNRVGY)
 
 ---
 
