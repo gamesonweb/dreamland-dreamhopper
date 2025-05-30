@@ -20,12 +20,25 @@ Vous incarnez un **Dreamhopper**, dernier rempart contre les cauchemars qui dév
 
 ## 🎮 Contrôles
 
-| Touche           | Action                                |
-|------------------|-------------------------------------|
-| `Flèches` / `ZQSD` | Se déplacer                       |
-| `Espace`         | Sauter                              |
-| `Clic gauche`    | Lancer un **Trait de Rêve**         |
-| `Échap`          | Pause / Retour au menu               |
+| Touche / Souris           | Action                                                       |
+|--------------------------|--------------------------------------------------------------|
+| `Z`                      | Avancer (Run)                                                |
+| `S`                      | Reculer (BackPedal)                                          |
+| `A`                      | Se déplacer latéralement à gauche (StrafeLeft)               |
+| `E`                      | Se déplacer latéralement à droite (StrafeRight)              |
+| `Q`                      | Tourner à gauche                                             |
+| `D`                      | Tourner à droite                                             |
+| `Z + E`                  | Avancer en diagonale droite                                  |
+| `Z + A`                  | Avancer en diagonale gauche                                  |
+| `Espace`                 | Sauter                                                      |
+| `1`                      | Lancer un **Trait de Rêve** (Dreambolt)                      |
+| `W`                      | Sortir / Rentrer l'arme (toggle sheathe)                     |
+| `T`                      | Interagir avec un PNJ pour lancer une quête                  |
+| **Clic droit enfoncé**   | Tourner le personnage avec la souris                         |
+| **Clic gauche enfoncé**  | Déplacer la caméra autour du personnage (pan around)         |
+| **Clic gauche (clic sur un objet)** | Sélectionner un objet / élément interactif           |
+
+> **Note :** Il n'y a pas encore de menu pause dans cette version.
 
 ---
 
@@ -52,4 +65,5 @@ En début de projet, une collaboration était prévue avec **Salim FARES** (*M1 
 ---
 
 Merci d’avoir rêvé avec nous. 💤
+
 
