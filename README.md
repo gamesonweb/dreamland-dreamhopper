@@ -40,7 +40,7 @@ Vous incarnez un **Dreamhopper**, dernier rempart contre les cauchemars qui dév
 | **Clic gauche enfoncé**  | Déplacer la caméra autour du personnage (pan around)         |
 | **Clic gauche (clic sur un objet)** | Sélectionner un objet / élément interactif           |
 
-> **Note :** Il n'y a pas encore de menu pause dans cette version.
+
 
 ---
 
