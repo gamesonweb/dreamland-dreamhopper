@@ -24,17 +24,18 @@ Vous incarnez un **Dreamhopper**, dernier rempart contre les cauchemars qui dév
 
 | Touche / Souris           | Action                                                       |
 |--------------------------|--------------------------------------------------------------|
-| `Z`                      | Avancer (Run)                                                |
-| `S`                      | Reculer (BackPedal)                                          |
-| `A`                      | Se déplacer latéralement à gauche (StrafeLeft)               |
-| `E`                      | Se déplacer latéralement à droite (StrafeRight)              |
-| `Q`                      | Tourner à gauche                                             |
-| `D`                      | Tourner à droite                                             |
-| `Z + E`                  | Avancer en diagonale droite                                  |
-| `Z + A`                  | Avancer en diagonale gauche                                  |
+| `Z`      `W`                | Avancer (Run)                                                |
+| `S`       `S`               | Reculer (BackPedal)                                          |
+| `A`      `Q`               | Se déplacer latéralement à gauche (StrafeLeft)               |
+| `E`      `E`                | Se déplacer latéralement à droite (StrafeRight)              |
+| `Q`      `A`                | Tourner à gauche                                             |
+| `D`     `D`                 | Tourner à droite                                             |
+| `Z + E`   `W + E`               | Avancer en diagonale droite                                  |
+| `Z + A`     `W + Q`             | Avancer en diagonale gauche                                  |
 | `Espace`                 | Sauter                                                      |
 | `1`                      | Lancer un **Trait de Rêve** (Dreambolt)                      |
 | `T`                      | Interagir avec un PNJ pour lancer une quête                  |
+| `L`                      | Activer AZERTY/QWERTY (défaut : AZERTY)                 |
 | **Clic droit enfoncé**   | Tourner le personnage avec la souris                         |
 | **Clic gauche enfoncé**  | Déplacer la caméra autour du personnage (pan around)         |
 | **Clic gauche (clic sur un objet)** | Sélectionner un objet / élément interactif           |
