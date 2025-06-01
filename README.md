@@ -83,7 +83,16 @@ Je suis particulièrement fier que le jeu soit jouable malgré un scope réduit,
 Si je devais recommencer, je m’y prendrais bien plus tôt, idéalement avec un coéquipier sérieux. J’aimerais aussi enrichir le jeu avec une IA ennemie plus évoluée, un système d’arbre de talents, un inventaire, plus de scènes et plus de types d’ennemis.
 
 
+## Captures d'écran de période de développement:
 
+![twSvRUZ](https://github.com/user-attachments/assets/24f08d3c-42c7-410a-b67a-89c7e1a540ad)
+
+![CPMLXgq](https://github.com/user-attachments/assets/fa50d9ee-a54c-4544-84c9-cf441d4b93f5)
+
+![ekqDOtH](https://github.com/user-attachments/assets/2a59fda1-4640-4e30-9767-b5e2e85e57ca)
+
+
+![XrTbWKj](https://github.com/user-attachments/assets/1166ab88-116c-4ffd-8ec2-68f936bb417e)
 
 ---
 
