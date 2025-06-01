@@ -56,13 +56,34 @@ Ce projet a été réalisé dans le cadre du concours **Games on Web 2025**, org
 - **Hussam BOUCHAKOUR**  
   *Université d'Aix-Marseille – M1 Informatique : Géométrie et Informatique Graphique*
 
-### 🔧 Déroulement du projet
+### Déroulement du projet
 
 Le jeu a été conçu et développé intégralement en Babylon.js, avec une attention particulière portée à l’univers visuel, la narration immersive et la fluidité des mécaniques de gameplay.
 
-Le développement a été réalisé en seulement 2 à 3 semaines, ce qui a été très difficile à gérer, d’autant plus que je faisais en parallèle un stage à plein temps. Malgré ces contraintes, j’ai donné le meilleur de moi-même pour obtenir le meilleur résultat possible.
+Le développement a été réalisé en seulement 2 à 3 semaines, ce qui a été difficile à gérer, d’autant plus que je faisais en parallèle un stage à plein temps. Malgré ces contraintes, j’ai donné le meilleur de moi-même pour obtenir le meilleur résultat possible.
 
 En début de projet, une collaboration était prévue avec **Salim FARES** (*M1 Informatique – Ingénierie du Développement Logiciel*, Université Aix-Marseille). Toutefois, Salim **n’a finalement pas participé** à sa réalisation. Son nom a donc été retiré du projet final.
+
+## 🔧 Développement
+
+Le développement de **Dreamhopper** a été une expérience intense et formatrice, réalisée en seulement 2 à 3 semaines, en parallèle d’un stage à plein temps. Mon principal moteur était de continuer à approfondir mes compétences en Babylon.js et en développement de jeux vidéo, en sortant de ma zone de confort en me lançant dans un projet ambitieux malgré le délai court.
+
+J’ai organisé mon temps libre en privilégiant surtout la dernière semaine pour avancer rapidement, en prenant également des rendez-vous réguliers avec mon encadrant puisque ce projet fait partie de mon TER. Ce soutien a été précieux pour gérer la pression et les difficultés liées au temps.
+
+L’un des aspects techniques les plus complexes a été la mise en place du système de quête, totalement nouveau pour moi. Cela correspondait précisément à mon objectif de progresser en m’attaquant à des défis inédits. Par ailleurs, j’ai dû adapter certains éléments pour optimiser les performances et garantir que le jeu reste jouable même sur des machines modestes, notamment en remplaçant un modèle de terrain initial par une heightmap plus légère.
+
+Côté outils, Babylon.js a été le cœur du projet, complété par Vue.js pour le front-end et Havok pour le moteur physique. Concernant les graphismes, j’ai mixé des ressources libres — comme des modèles low poly pour les arbres trouvés sur Sketchfab — et des animations issues de Mixamo. J’ai également mis l’accent sur l’ambiance via des systèmes de particules pour les effets de magie et de brouillard, renforçant l’univers onirique.
+
+Le gameplay, simple mais efficace, repose principalement sur la transformation des ennemis en peluches pacifiques grâce à un "Trait de Rêve", la collecte de fragments, et l’interaction avec des PNJ pour avancer dans les quêtes.
+
+La principale source de stress a été la peur de ne pas finir à temps, mais les encouragements de mon encadrant ont aidé à rester motivé jusqu’à la livraison.
+
+Je suis particulièrement fier que le jeu soit jouable malgré un scope réduit, avec une ambiance et un rendu visuel convaincants, créant une expérience immersive.
+
+Si je devais recommencer, je m’y prendrais bien plus tôt, idéalement avec un coéquipier sérieux. J’aimerais aussi enrichir le jeu avec une IA ennemie plus évoluée, un système d’arbre de talents, un inventaire, plus de scènes et plus de types d’ennemis.
+
+
+
 
 ---
 
