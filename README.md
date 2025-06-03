@@ -72,7 +72,7 @@ J’ai organisé mon temps libre en privilégiant surtout la dernière semaine p
 
 L’un des aspects techniques les plus complexes a été la mise en place du système de quête, totalement nouveau pour moi. Cela correspondait précisément à mon objectif de progresser en m’attaquant à des défis inédits. Par ailleurs, j’ai dû adapter certains éléments pour optimiser les performances et garantir que le jeu reste jouable même sur des machines modestes, notamment en remplaçant un modèle de terrain initial par une heightmap plus légère.
 
-Côté outils, Babylon.js a été le cœur du projet, complété par Vue.js pour le front-end et Havok pour le moteur physique. Concernant les graphismes, j’ai mixé des ressources libres — comme des modèles low poly pour les arbres trouvés sur Sketchfab — et des animations issues de Mixamo. J’ai également mis l’accent sur l’ambiance via des systèmes de particules pour les effets de magie et de brouillard, renforçant l’univers onirique.
+Côté outils, Babylon.js a été le cœur du projet, complété par Vue.js pour le front-end et Havok pour le moteur physique. Le pathing des ennemis a été effectué à l'aide d'une navigation mesh et de RecastJS. Concernant les graphismes, j’ai mixé des ressources libres — comme des modèles low poly pour les arbres trouvés sur Sketchfab — et des animations issues de Mixamo. J’ai également mis l’accent sur l’ambiance via des systèmes de particules pour les effets de magie et de brouillard, renforçant l’univers onirique.
 
 Le gameplay, simple mais efficace, repose principalement sur la transformation des ennemis en peluches pacifiques grâce à un "Trait de Rêve", la collecte de fragments, et l’interaction avec des PNJ pour avancer dans les quêtes.
 
